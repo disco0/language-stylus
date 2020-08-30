@@ -1,6 +1,6 @@
 {
-    "name": "language-stylus",
-    "displayName": "language-stylus",
+    "name": "language-stylus-revamp",
+    "displayName": "language-stylus-revamp",
     "description": "Stylus language support",
     "version": "1.11.0",
     "publisher": "sysoev",
@@ -8,12 +8,12 @@
         "vscode": "^1.44.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/d4rkr00t/language-stylus",
+    "homepage": "https://github.com/AlbertoMonteiro/language-stylus",
     "repository": {
         "type": "git",
-        "url": "https://github.com/d4rkr00t/language-stylus.git"
+        "url": "https://github.com/AlbertoMonteiro/language-stylus.git"
     },
-    "bugs": "https://github.com/d4rkr00t/language-stylus/issues",
+    "bugs": "https://github.com/AlbertoMonteiro/language-stylus/issues",
     "main": "./out/src/extension",
     "icon": "assets/icon.png",
     "keywords": [
